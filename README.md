@@ -21,10 +21,12 @@ Para ejecutar los contenedores, asegúrate de tener instalados los siguientes pr
    ```bash
    sudo apt update
    sudo apt install docker.io -y
+   docker --version
    ```
 2. Instala Docker Compose:
    ```bash
    sudo apt install docker-compose -y
+   docker-compose --version
    ```
 3. Asegúrate de que el servicio Docker esté activo:
    ```bash
