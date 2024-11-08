@@ -62,7 +62,7 @@ Una vez que los contenedores estén levantados, puedes acceder a Odoo desde tu n
 ```plaintext
 http://localhost:8069
 ```
-### 5. Dar de baja los contenedores
+### 4. Dar de baja los contenedores
 
 ```bash
 docker-compose down
