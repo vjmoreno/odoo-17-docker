@@ -30,6 +30,7 @@ Para ejecutar los contenedores, asegúrate de tener instalados los siguientes pr
    ```bash
    sudo systemctl start docker
    sudo systemctl enable docker
+   sudo systemctl status docker
    ```
 
 ## Uso
